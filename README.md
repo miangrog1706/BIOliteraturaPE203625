@@ -11,30 +11,45 @@ Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
 ## Participantes
+
 Coordinación
+
 Layla Michán
 
 Gestión del proyecto
+
 Israel Muñoz Velasco
 
 Profesores
+
 Ricardo Noguera Solano
+
 Erick García Trejo
+
 DAvid Suarez Pascal
+
 Gerardo Rivas Mercado
-Juan Manuel Rodríguez Cahavez
+
+Juan Manuel Rodríguez Chavez
+
 Graciela Zamudio Varela
+
 Maria Magdalena López
 
 Colaboradores
+
 Roberto Santos Solorzano
+
 Diana Ramirez Álvares
 
 Tesis
+
 Licenciatura
+
 Minerva María Romero Pérez
 
 Servicio Social
+
 Moisés Hernández Pozos
 
 ## Productos
