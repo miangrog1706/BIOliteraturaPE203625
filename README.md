@@ -36,19 +36,19 @@ Israel Muñoz Velasco
 
 **Profesores**
 
-Ricardo Noguera Solano
+Ricardo Noguera Solano 2025-2
 
-Erick García Trejo
+Erick García Trejo 2025-2
 
-David Suarez Pascal
+David Suarez Pascal 2025-2
 
-Gerardo Rivas Mercado
+Gerardo Rivas Mercado 2025-2
 
-Juan Manuel Rodríguez Chavez
+Juan Manuel Rodríguez Chavez 2025-2
 
-Graciela Zamudio Varela
+Graciela Zamudio Varela 2025-2
 
-Maria Magdalena López
+Maria Magdalena López 2025-2
 
 **Colaboradores**
 
