@@ -10,23 +10,34 @@ Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
+## Etapas
+### Pruebas
+Durante las pruebas generaremos los materiales y realizaremos pilotos de la implementación en los cursos de la licenciatura en biologia en los cursos del semestre 2025-2:
+Introducción a la biología comparada [361676](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361677)
+Historia de la Biología [361719](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361719), [361688](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361688)
+Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/docencia/horarios/presentacion/363796)
+
+
+### Implementación
+
+
 ## Participantes
 
-*Coordinación
+*Coordinación*
 
 Layla Michán
 
-Gestión del proyecto
+**Gestión del proyecto**
 
 Israel Muñoz Velasco
 
-Profesores
+**Profesores**
 
 Ricardo Noguera Solano
 
 Erick García Trejo
 
-DAvid Suarez Pascal
+David Suarez Pascal
 
 Gerardo Rivas Mercado
 
@@ -36,15 +47,15 @@ Graciela Zamudio Varela
 
 Maria Magdalena López
 
-Colaboradores
+**Colaboradores**
 
 Roberto Santos Solorzano
 
 Diana Ramirez Álvares
 
-Tesis
+**Tesis**
 
-Licenciatura
+*Licenciatura*
 
 Minerva María Romero Pérez
 
