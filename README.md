@@ -15,7 +15,7 @@ Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 Durante las pruebas generaremos los materiales y realizaremos pilotos de la implementación en los cursos de la licenciatura en biologia en los cursos del semestre 2025-2:
 Introducción a la biología comparada [361676](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361677)
 
-Historia de la Biología [361719](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361719), [361688](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361688)
+Historia de la Biología [361719](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361719), [361688](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361688), 361692(https://www.fciencias.unam.mx/docencia/horarios/presentacion/361692)
 
 Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/docencia/horarios/presentacion/363796)
 
