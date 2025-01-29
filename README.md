@@ -9,3 +9,7 @@ En los planes de estudio vigentes de Biología en la UNAM existen dos componente
 Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing) 
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
+
+
+# Financiamiento
+Agradecemos el financiamiento a este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625  
