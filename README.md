@@ -12,7 +12,7 @@ Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
 ## Participantes
 
-Coordinación
+*Coordinación
 
 Layla Michán
 
