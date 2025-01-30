@@ -31,7 +31,7 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 
 ## Participantes
 
-*Coordinación*
+**Coordinación**
 
 Layla Michán
 
@@ -45,7 +45,11 @@ Ricardo Noguera Solano 2025-2
 
 Erick García Trejo 2025-2
 
-David Suarez Pascal 2025-2
+David Suarez Pascal 2025-2 
+https://www.fciencias.unam.mx/directorio/28936 
+https://github.com/pascalin
+https://mstdn.social/@pascalin@unam.social
+https://www.zotero.org/pascalin
 
 Gerardo Rivas Mercado 2025-2
 
