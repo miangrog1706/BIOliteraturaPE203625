@@ -13,6 +13,8 @@ Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
+Blog Biogarabatos https://biogarabatos.blogspot.com/search/label/PAPIME%2FUNAM%2FPE203625
+
 ## Etapas
 ### Pruebas
 Durante las pruebas generaremos los materiales y realizaremos pilotos de la implementación en los cursos de la licenciatura en biologia en los cursos del semestre 2025-2:
