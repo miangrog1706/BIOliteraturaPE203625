@@ -83,4 +83,4 @@ Moisés Hernández Pozos
 ## Productos
 
 ## Financiamiento
-Agradecemos el financiamiento a este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625  
+Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625  
