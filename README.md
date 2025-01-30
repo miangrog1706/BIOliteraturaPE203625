@@ -46,6 +46,7 @@ Ricardo Noguera Solano 2025-2
 Erick García Trejo 2025-2
 
 David Suarez Pascal 2025-2 
+
 https://www.fciencias.unam.mx/directorio/28936 
 
 https://github.com/pascalin
