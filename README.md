@@ -58,7 +58,7 @@ https://www.zotero.org/pascalin
 
 Gerardo Rivas Mercado 2025-2
 
-Juan Manuel Rodríguez Chavez 2025-2
+Juan Manuel Rodríguez Caso 2025-2
 
 Graciela Zamudio Varela 2025-2
 
