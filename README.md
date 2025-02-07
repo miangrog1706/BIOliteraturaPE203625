@@ -64,6 +64,8 @@ Graciela Zamudio Varela 2025-2
 
 Maria Magdalena López 2025-2
 
+Roxana Acosta Gutiérrez 2025-2
+
 **Colaboradores**
 
 Roberto Santos Solorzano
