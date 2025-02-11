@@ -15,6 +15,8 @@ Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
 Blog Biogarabatos https://biogarabatos.blogspot.com/search/label/PAPIME%2FUNAM%2FPE203625
 
+Anotaciones en Hypothes.is #BioliteraturaPE203625 https://hypothes.is/users/lmichan?q=BioliteraturaPE203625
+
 ## Etapas
 ### Pruebas
 Durante las pruebas generaremos los materiales y realizaremos pilotos de la implementación en los cursos de la licenciatura en biologia en los cursos del semestre 2025-2:
@@ -80,7 +82,6 @@ Minerva María Romero Pérez
 
 Servicio Social
 
-Moisés Hernández Pozos
 
 ## Productos
 
