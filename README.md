@@ -33,57 +33,36 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 
 ## Participantes
 
-**Coordinación**
-
 Layla Michán
-
-**Gestión del proyecto**
 
 Israel Muñoz Velasco
 
-**Profesores**
+Ricardo Noguera Solano
 
-Ricardo Noguera Solano 2025-2
+Roxana Acosta Gutiérrez
 
-Erick García Trejo 2025-2
+Erick García Trejo
 
-David Suarez Pascal 2025-2 
+Gerardo Rivas Lechuga
 
-https://www.fciencias.unam.mx/directorio/28936 
+David Suarez Pascal
 
-https://github.com/pascalin
+Juan Manuel Rodríguez Caso
 
-https://mstdn.social/@pascalin@unam.social
-
-https://www.zotero.org/pascalin
-
-
-Gerardo Rivas Mercado 2025-2
-
-Juan Manuel Rodríguez Caso 2025-2
-
-Graciela Zamudio Varela 2025-2
-
-Maria Magdalena López 2025-2
-
-Roxana Acosta Gutiérrez 2025-2
-
-**Colaboradores**
+Maria Magdalena López
 
 Roberto Santos Solorzano
 
-Diana Ramirez Álvares
+Diana Ramirez Álvarez
 
-**Tesis**
+Paulina Cruz Castañeda
 
-*Licenciatura*
-
-Minerva María Romero Pérez
-
-Servicio Social
+Kenia Lizeth Muñoz Martínez
 
 
 ## Productos
+
+Lista de productos en [hypothes.is](https://hypothes.is/users/lmichan?q=tag%3ABioliteraturaPE203625+tag%3Aproducto%F0%9F%A5%87)
 
 ## Financiamiento
 Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625  
