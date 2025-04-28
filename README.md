@@ -32,32 +32,24 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 
 
 ## Participantes
+1 Layla Michán
+2 Israel Muñoz Velasco
+3 Ricardo Noguera Solano
+4 Roxana Acosta Gutiérrez
+5 Erick García Trejo
+6 Gerardo Rivas Lechuga
+7 David Suarez Pascal
+8 Juan Manuel Rodríguez Caso
+9 Maria Magdalena López
+10 Roberto Santos Solorzano
+11 Diana Ramirez Álvarez
+11 Paulina Cruz Castañeda
+13 Kenia Lizeth Muñoz Martínez
+14 Talia C. Rosas Cabrera
+15 Minerva María Romero Pérez
+16 Dafne Estefany Bonilla Cerquedo
 
-Layla Michán
 
-Israel Muñoz Velasco
-
-Ricardo Noguera Solano
-
-Roxana Acosta Gutiérrez
-
-Erick García Trejo
-
-Gerardo Rivas Lechuga
-
-David Suarez Pascal
-
-Juan Manuel Rodríguez Caso
-
-Maria Magdalena López
-
-Roberto Santos Solorzano
-
-Diana Ramirez Álvarez
-
-Paulina Cruz Castañeda
-
-Kenia Lizeth Muñoz Martínez
 
 
 ## Productos
