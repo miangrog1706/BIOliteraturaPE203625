@@ -41,7 +41,7 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 
 ## Participantes
 ---
-* [1] **Layla Michán**   ![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?style=flat-square&label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
+* [1] **Layla Michán**   [![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?style=flat-square&label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)](https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
 
 * [2] **Israel Muñoz Velasco**    ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo&link=%3Coption%3E%20https%3A%2F%2Forcid.org%2F0000-0002-4712-5076%20%3Coption%3E)
 
