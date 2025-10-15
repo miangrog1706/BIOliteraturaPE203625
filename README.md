@@ -9,7 +9,8 @@ En los planes de estudio vigentes de Biología en la UNAM existen dos componente
 
 ## Materiales
 
-Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing) 
+Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing)
+
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
@@ -32,57 +33,57 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 
 
 ## Participantes
-* [1] Layla Michán   ![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
+* [1] Layla Michán   ![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?style=flat-square&label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
 
-* [1] Israel Muñoz Velasco
+* [2] Israel Muñoz Velasco    ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-4712-5076)
 
-* [1] Ricardo Noguera Solano
+* [3] Ricardo Noguera Solano
 
-* [1] Roxana Acosta Gutiérrez
+* [4] Roxana Acosta Gutiérrez
 
-* [1] Erick García Trejo
+* [5] Erick García Trejo
 
-* [1] Gerardo Rivas Lechuga
+* [6] Gerardo Rivas Lechuga
 
-* [1] David Suarez Pascal
+* [7] David Suarez Pascal
 
-* [1] Juan Manuel Rodríguez Caso
+* [8] Juan Manuel Rodríguez Caso
 
-* [1] Maria Magdalena López
+* [9] Maria Magdalena López
 
-* [1] Roberto Santos Solorzano
+* [10] Roberto Santos Solorzano
 
-* [1] Diana Ramirez Álvarez
+* [11] Diana Ramirez Álvarez
 
-* [1] Paulina Cruz Castañeda
+* [12] Paulina Cruz Castañeda
 
-* [1] Kenia Lizeth Muñoz Martínez
+* [13] Kenia Lizeth Muñoz Martínez
 
-* [1] Talia C. Rosas Cabrera
+* [14] Talia C. Rosas Cabrera
 
-* [1] Minerva María Romero Pérez
+* [15] Minerva María Romero Pérez
 
-* [1] Dafne Estefany Bonilla Cerquedo
+* [16] Dafne Estefany Bonilla Cerquedo
 
-* [1] José Antonio Hernández Mondragón
+* [17] José Antonio Hernández Mondragón
 
-* [1] Mariana Ávila Villa
+* [18] Mariana Ávila Villa
 
-* [1] Jair Hurtado Hernandez
+* [19] Jair Hurtado Hernandez
 
-* [1] Ana Karen Herrera Escamilla
+* [20] Ana Karen Herrera Escamilla
 
-* [1] Miguel Angel Romero Gonzalez
+* [21] Miguel Angel Romero Gonzalez
 
-* [1] Marilú Yatzael Velázquez Barrón
+* [22] Marilú Yatzael Velázquez Barrón
 
-* [1] Sofía De Jesús Rodas Velasco
+* [23] Sofía De Jesús Rodas Velasco
 
-* [1] Sonia Maria Perez Portillo
+* [24] Sonia Maria Perez Portillo
 
-* [1] Mariana Avila Villa
+* [25] Mariana Avila Villa
 
-* [1] Zaida Victorina Cuate Tablas
+* [26] Zaida Victorina Cuate Tablas
 
 
 
