@@ -32,7 +32,7 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 
 
 ## Participantes
-* -1 Layla Michán
+* [-1] Layla Michán
 
 * -2 Israel Muñoz Velasco
 
