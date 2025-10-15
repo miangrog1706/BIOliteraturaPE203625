@@ -32,57 +32,57 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 
 
 ## Participantes
-* [-1] Layla Michán
+* [1] Layla Michán   ![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
 
-* -2 Israel Muñoz Velasco
+* [1] Israel Muñoz Velasco
 
-* -3 Ricardo Noguera Solano
+* [1] Ricardo Noguera Solano
 
-* -4 Roxana Acosta Gutiérrez
+* [1] Roxana Acosta Gutiérrez
 
-* -5 Erick García Trejo
+* [1] Erick García Trejo
 
-* -6 Gerardo Rivas Lechuga
+* [1] Gerardo Rivas Lechuga
 
-* -7 David Suarez Pascal
+* [1] David Suarez Pascal
 
-* -8 Juan Manuel Rodríguez Caso
+* [1] Juan Manuel Rodríguez Caso
 
-* -9 Maria Magdalena López
+* [1] Maria Magdalena López
 
-* -10 Roberto Santos Solorzano
+* [1] Roberto Santos Solorzano
 
-* -11 Diana Ramirez Álvarez
+* [1] Diana Ramirez Álvarez
 
-* -11 Paulina Cruz Castañeda
+* [1] Paulina Cruz Castañeda
 
-* -13 Kenia Lizeth Muñoz Martínez
+* [1] Kenia Lizeth Muñoz Martínez
 
-* -14 Talia C. Rosas Cabrera
+* [1] Talia C. Rosas Cabrera
 
-* -15 Minerva María Romero Pérez
+* [1] Minerva María Romero Pérez
 
-* -16 Dafne Estefany Bonilla Cerquedo
+* [1] Dafne Estefany Bonilla Cerquedo
 
-* -17 José Antonio Hernández Mondragón
+* [1] José Antonio Hernández Mondragón
 
-* -18 Mariana Ávila Villa
+* [1] Mariana Ávila Villa
 
-* -19 Jair Hurtado Hernandez
+* [1] Jair Hurtado Hernandez
 
-* -20 Ana Karen Herrera Escamilla
+* [1] Ana Karen Herrera Escamilla
 
-* -21 Miguel Angel Romero Gonzalez
+* [1] Miguel Angel Romero Gonzalez
 
-* -22 Marilú Yatzael Velázquez Barrón
+* [1] Marilú Yatzael Velázquez Barrón
 
-* -23 Sofía De Jesús Rodas Velasco
+* [1] Sofía De Jesús Rodas Velasco
 
-* -24 Sonia Maria Perez Portillo
+* [1] Sonia Maria Perez Portillo
 
-* -25 Mariana Avila Villa
+* [1] Mariana Avila Villa
 
-* -26 Zaida Victorina Cuate Tablas
+* [1] Zaida Victorina Cuate Tablas
 
 
 
