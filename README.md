@@ -50,60 +50,59 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 
 * [4] José Antonio Hernández Mondragón ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
-* [25] Minerva María Romero Pérez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+* [5] Minerva María Romero Pérez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 <br>
 
-* [5] Ana Karen Herrera Escamilla ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
+* [6] Ana Karen Herrera Escamilla ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 
-* [6] Jair Hurtado Hernandez ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
+* [7] Jair Hurtado Hernandez ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 <br>
 
-* [7] David Suarez Pascal ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [8] David Suarez Pascal ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [8] Sofía De Jesús Rodas Velasco  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [9] Sofía De Jesús Rodas Velasco  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [9] Sonia Maria Perez Portillo  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [10] Sonia Maria Perez Portillo  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [10] Zaida Victorina Cuate Tablas ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [11] Zaida Victorina Cuate Tablas ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 <br>
 
-* [11] Mariana Ávila Villa  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
+* [12] Mariana Ávila Villa  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
 
-* [12] Gerardo Rivas Lechuga  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
+* [13] Gerardo Rivas Lechuga  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
 <br>
 
-* [13] Guadalupe Guzmán Jacinto ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [14] Guadalupe Guzmán Jacinto ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
   
-* [14] Naya’ni Zamora Jiménez ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [15] Naya’ni Zamora Jiménez ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
   
-* [15] María Fernanda Mendoza Bravo ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [16] María Fernanda Mendoza Bravo ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
 <br>
   
-* [16] Ricardo Noguera Solano
+* [17] Ricardo Noguera Solano
 
-* [17] Roxana Acosta Gutiérrez
+* [18] Roxana Acosta Gutiérrez
 
-* [18] Erick García Trejo
+* [19] Erick García Trejo
 
-* [19] Juan Manuel Rodríguez Caso
+* [20] Juan Manuel Rodríguez Caso
 
-* [20] Maria Magdalena López
+* [21] Maria Magdalena López
 
-* [21] Roberto Santos Solorzano
+* [22] Roberto Santos Solorzano
 
-* [22] Diana Ramirez Álvarez
+* [23] Diana Ramirez Álvarez
 
-* [23] Paulina Cruz Castañeda
+* [24] Paulina Cruz Castañeda
 
-* [24] Talia C. Rosas Cabrera
-
-* [25] Minerva María Romero Pérez
+* [25] Talia C. Rosas Cabrera
 
 * [26] Dafne Estefany Bonilla Cerquedo
-
+  
 * [27] Miguel Angel Romero Gonzalez
 
 * [28] Marilú Yatzael Velázquez Barrón
+
 
 
 
