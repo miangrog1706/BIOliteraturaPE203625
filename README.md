@@ -49,6 +49,8 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 * [3] Kenia Lizeth Muñoz Martínez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
 * [4] José Antonio Hernández Mondragón ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+
+* [25] Minerva María Romero Pérez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 <br>
 
 * [5] Ana Karen Herrera Escamilla ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
@@ -63,7 +65,7 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 * [9] Sonia Maria Perez Portillo  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
 * [10] Zaida Victorina Cuate Tablas ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
-* <br>
+<br>
 
 * [11] Mariana Ávila Villa  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
 
