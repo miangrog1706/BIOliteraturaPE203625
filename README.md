@@ -3,6 +3,7 @@ COMPETENCIAS PARA LA ENSEÑANZA-APRENDIZAJE DE BIOLITERATURA: UNA INTERVENCION E
 
 Somos un grupo de profesores que tenemos en común interés por la biología, la literatura y las tecnologías computacionales y que integrarlas constituye una buena manera de potenciar la educación.
 
+Imagen del proyecto
 
 ## Síntesis
 En los planes de estudio vigentes de Biología en la UNAM existen dos componentes clave que aplican los profesores en el proceso de enseñanza-aprendizaje, las estrategias didácticas y la evaluación del aprendizaje, para ambas se requiere que los alumnos indispensable y obligatoriamente consulten fuentes de calidad, bibliografía especializada en la Web, revisen la literatura científica e  incluyan referencias y citas. Esto es un gran reto por varias razones, la gran desinformación existente, los estudiantes se enfrentan por primera vez al empleo de la literatura especializada, carecen de algún curso formal sobre el tópico, incluso en ninguna materia se abordan los contenidos fundamentales que les permita conocer las fuentes de calidad existentes, usar las bases de datos bibliográficas, conocer las revistas o generar citas y referencias, aunque forzosamente en todas sus materias, sin excepción, deberán utilizarlas. Esto constituye una debilidad importante de los programas de estudios vigentes y una carencia evidente de los estudiantes. Para contrarrestar este problema nos proponemos generar un proyecto innovador que integra la enseñanza, las TICs, la biología y la información, enfocado en crear estrategias didácticas y recursos digitales sobre ocho características básicas de la  literatura biológica (bioliteratura) para realizar una intervención educativa en los estudiantes con el objetivo de desarrollar competencias informáticas e informacionales clave en los futuros biólogos.
@@ -10,7 +11,7 @@ En los planes de estudio vigentes de Biología en la UNAM existen dos componente
 ## Materiales
 
 Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing)
-
+Repositorio: 
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
@@ -27,63 +28,82 @@ Historia de la Biología [361719](https://www.fciencias.unam.mx/docencia/horario
 
 Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/docencia/horarios/presentacion/363796)
 
-
+### Descripción
+El equipo está formado por x investigadores, x servicios sociales, x estudiantes, x mujeres, x hombres
 
 ### Implementación
 
+### Subproyectos:
+  * Bioinformación
+  * Animales
+  * Archaea
+  * PhilosophyHubio
 
 ## Participantes
-* [1] Layla Michán   ![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?style=flat-square&label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
+---
+* [1] **Layla Michán**   ![Static Badge](https://img.shields.io/badge/Bioinformacion-blue?style=flat-square&label=Grupo&link=https%3A%2F%2Forcid.org%2F0000-0002-5798-662X)
 
-* [2] Israel Muñoz Velasco    ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo&link=%3Coption%3E%20https%3A%2F%2Forcid.org%2F0000-0002-4712-5076%20%3Coption%3E)
+* [2] **Israel Muñoz Velasco**    ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo&link=%3Coption%3E%20https%3A%2F%2Forcid.org%2F0000-0002-4712-5076%20%3Coption%3E)
 
-* [3] Ricardo Noguera Solano
+---
+* [3] Kenia Lizeth Muñoz Martínez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
-* [4] Roxana Acosta Gutiérrez
+* [4] José Antonio Hernández Mondragón ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+<br>
 
-* [5] Erick García Trejo
+* [5] Ana Karen Herrera Escamilla ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 
-* [6] Gerardo Rivas Lechuga
+* [6] Jair Hurtado Hernandez ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
+<br>
 
-* [7] David Suarez Pascal
+* [7] David Suarez Pascal ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [8] Juan Manuel Rodríguez Caso
+* [8] Sofía De Jesús Rodas Velasco  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [9] Maria Magdalena López
+* [9] Sonia Maria Perez Portillo  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [10] Roberto Santos Solorzano
+* [10] Zaida Victorina Cuate Tablas ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* <br>
 
-* [11] Diana Ramirez Álvarez
+* [11] Mariana Ávila Villa  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
 
-* [12] Paulina Cruz Castañeda
+* [12] Gerardo Rivas Lechuga  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
+<br>
 
-* [13] Kenia Lizeth Muñoz Martínez
+* [13] Guadalupe Guzmán Jacinto ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+  
+* [14] Naya’ni Zamora Jiménez ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+  
+* [15] María Fernanda Mendoza Bravo ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+<br>
+  
+* [16] Ricardo Noguera Solano
 
-* [14] Talia C. Rosas Cabrera
+* [17] Roxana Acosta Gutiérrez
 
-* [15] Minerva María Romero Pérez
+* [18] Erick García Trejo
 
-* [16] Dafne Estefany Bonilla Cerquedo
+* [19] Juan Manuel Rodríguez Caso
 
-* [17] José Antonio Hernández Mondragón
+* [20] Maria Magdalena López
 
-* [18] Mariana Ávila Villa
+* [21] Roberto Santos Solorzano
 
-* [19] Jair Hurtado Hernandez
+* [22] Diana Ramirez Álvarez
 
-* [20] Ana Karen Herrera Escamilla
+* [23] Paulina Cruz Castañeda
 
-* [21] Miguel Angel Romero Gonzalez
+* [24] Talia C. Rosas Cabrera
 
-* [22] Marilú Yatzael Velázquez Barrón
+* [25] Minerva María Romero Pérez
 
-* [23] Sofía De Jesús Rodas Velasco
+* [26] Dafne Estefany Bonilla Cerquedo
 
-* [24] Sonia Maria Perez Portillo
+* [27] Miguel Angel Romero Gonzalez
 
-* [25] Mariana Avila Villa
+* [28] Marilú Yatzael Velázquez Barrón
 
-* [26] Zaida Victorina Cuate Tablas
+
 
 
 
@@ -93,7 +113,7 @@ Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/do
 ## Productos
 
 Lista de productos en [hypothes.is](https://hypothes.is/users/lmichan?q=tag%3ABioliteraturaPE203625+tag%3Aproducto%F0%9F%A5%87)
-
+Zenodo: 
 ## Financiamiento
 ---
 Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625  
