@@ -19,6 +19,11 @@ Blog Biogarabatos https://biogarabatos.blogspot.com/search/label/PAPIME%2FUNAM%2
 
 Anotaciones en Hypothes.is #BioliteraturaPE203625 https://hypothes.is/users/lmichan?q=BioliteraturaPE203625
 
+Bioliteratura PAPIME en el Repositorio de inovación educativa (UNAM):
+<br>
+[![Static Badge](https://img.shields.io/badge/Repositorio%20UNAM-gold)](https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
+
+
 ## Etapas
 ### Pruebas
 Durante las pruebas generaremos los materiales y realizaremos pilotos de la implementación en los cursos de la licenciatura en biologia en los cursos del semestre 2025-2:
