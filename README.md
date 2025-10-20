@@ -78,7 +78,6 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 * [1] Kenia Lizeth Muñoz Martínez (Semestre 2025-2, 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 * [2] José Antonio Hernández Mondragón (Semestre 2025-2, 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 * [3] Minerva María Romero Pérez (Semestre 2025-2) [Tesis de Licenciatura] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
-<br>
 * [4] Ana Karen Herrera Escamilla (2026-1) ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 * [5] Jair Hurtado Hernandez (2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 <br>
@@ -93,13 +92,15 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 <br>
 * [27] Miguel Angel Romero Gonzalez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 * [28] Marilú Yatzael Velázquez Barrón (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
-
+---
 
 ## Productos
 
 Lista de productos en [hypothes.is](https://hypothes.is/users/lmichan?q=tag%3ABioliteraturaPE203625+tag%3Aproducto%F0%9F%A5%87)
+
 Zenodo: 
+
+---
 ## Financiamiento
----
-Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625  
----
+Agradecemos el financiamiento de este proyecto a la UNAM- DGPA a través del proyecto PAPIME PE203625 
+___
