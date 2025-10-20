@@ -47,74 +47,67 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 
 ## Participantes
 ---
+*Coordinadores*
 * [1] **Layla Michán**  [![Grupo Bioinformacion](https://img.shields.io/badge/Grupo-Bioinformacion-blue?style=flat-square)](https://orcid.org/0000-0002-5798-662X)
 
 
 * [2] **Israel Muñoz Velasco**     [![Grupo Bioinformacion](https://img.shields.io/badge/Grupo-Archaea-green?style=flat-square)](https://orcid.org/0000-0002-4712-5076)
 ---
-* [3] Kenia Lizeth Muñoz Martínez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
-* [4] José Antonio Hernández Mondragón ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
-
-* [5] Minerva María Romero Pérez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+  *Profesores* 
+* [1] Roxana Acosta Gutiérrez (Semestre 2025-2)
+* [2] David Suarez Pascal  (Semestre 2025-2, 2026-1) ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [3] Ricardo Noguera Solano (Semestre 2025-2, 2026-1)
+* [4] Erick García Trejo (Semestre 2025-2)
+* [5] Juan Manuel Rodríguez Caso (Semestre 2025-2)
+* [6] Maria Magdalena López (Semestre 2025-2)
+* [7] Paulina Cruz Castañeda (Semestre 2025-2)
+* [8] Talia C. Rosas Cabrera (Semestre 2025-2, 2026-1)
+* [9] Dafne Estefany Bonilla Cerquedo
+* [10] Gerardo Rivas Lechuga (Semestre 2025-2, 2026-1)  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
 <br>
 
-* [6] Ana Karen Herrera Escamilla ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
+---
 
-* [7] Jair Hurtado Hernandez ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
+ *Asesores*
+
+* [1] Roberto Santos Solorzano
+
+* [2] Diana Ramirez Álvarez
+---
+
+*Estudiantes*
+* [1] Kenia Lizeth Muñoz Martínez (Semestre 2025-2, 2026-1) ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+
+* [2] José Antonio Hernández Mondragón (Semestre 2025-2, 2026-1) ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+
+* [3] Minerva María Romero Pérez (Semestre 2025-2) ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 <br>
 
-* [8] David Suarez Pascal ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [4] Ana Karen Herrera Escamilla (2026-1) ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 
-* [9] Sofía De Jesús Rodas Velasco  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
-
-* [10] Sonia Maria Perez Portillo  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
-
-* [11] Zaida Victorina Cuate Tablas ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [5] Jair Hurtado Hernandez (2026-1) ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 <br>
 
-* [12] Mariana Ávila Villa  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
+* [6] Sofía De Jesús Rodas Velasco (2026-1)  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 
-* [13] Gerardo Rivas Lechuga  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
+* [7] Sonia Maria Perez Portillo (2026-1)  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+
+* [8] Zaida Victorina Cuate Tablas (2026-1) ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 <br>
 
-* [14] Guadalupe Guzmán Jacinto ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [9] Mariana Ávila Villa (Semestre 2025-2, 2026-1)  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
+
+* [14] Guadalupe Guzmán Jacinto (Semestre 2026-1) ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
   
-* [15] Naya’ni Zamora Jiménez ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [15] Naya’ni Zamora Jiménez (Semestre 2026-1) ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
   
-* [16] María Fernanda Mendoza Bravo ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [16] María Fernanda Mendoza Bravo (Semestre 2026-1) ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
 <br>
   
-* [17] Ricardo Noguera Solano
+* [27] Miguel Angel Romero Gonzalez (Semestre 2026-1) ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
-* [18] Roxana Acosta Gutiérrez
-
-* [19] Erick García Trejo
-
-* [20] Juan Manuel Rodríguez Caso
-
-* [21] Maria Magdalena López
-
-* [22] Roberto Santos Solorzano
-
-* [23] Diana Ramirez Álvarez
-
-* [24] Paulina Cruz Castañeda
-
-* [25] Talia C. Rosas Cabrera
-
-* [26] Dafne Estefany Bonilla Cerquedo
-  
-* [27] Miguel Angel Romero Gonzalez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
-
-* [28] Marilú Yatzael Velázquez Barrón ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
-
-
-
-
-
-
-
+* [28] Marilú Yatzael Velázquez Barrón (Semestre 2026-1) ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
 
 ## Productos
