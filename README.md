@@ -12,7 +12,7 @@ En los planes de estudio vigentes de Biología en la UNAM existen dos componente
 
 Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing)
 
-Repositorio de Innovación Educativa [PE203625] (https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
+Repositorio de Innovación Educativa [PE203625](https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
