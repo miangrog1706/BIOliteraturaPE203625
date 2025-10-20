@@ -11,7 +11,8 @@ En los planes de estudio vigentes de Biología en la UNAM existen dos componente
 ## Materiales
 
 Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing)
-Repositorio: 
+
+Repositorio de Innovación Educativa [PE203625] (https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
 
 Etiqueta de Mastodon https://mstdn.social/tags/PE203625
 
@@ -104,9 +105,9 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 
 * [26] Dafne Estefany Bonilla Cerquedo
   
-* [27] Miguel Angel Romero Gonzalez
+* [27] Miguel Angel Romero Gonzalez ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
-* [28] Marilú Yatzael Velázquez Barrón
+* [28] Marilú Yatzael Velázquez Barrón ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 
 
 
